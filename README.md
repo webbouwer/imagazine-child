@@ -1,4 +1,4 @@
-![](https://github.com/webbouwer/imagazine/blob/development/screenshot.png)
+![](https://github.com/webbouwer/imagazine-child/blob/master/screenshot.png)
 ### Imagazine WP Child Theme
 
 made by Webbouwer™ @ Webdesign Den Haag © 2019
